@@ -8,6 +8,8 @@ public class Player {
 		super();
 		this.playerID = playerID;
 		this.name = name;
+		this.name = name;
+		
 	}
 	
 	public Integer getPlayerID() {
